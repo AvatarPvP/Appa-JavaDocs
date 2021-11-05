@@ -11,6 +11,8 @@ com.appa.api.database.mongo.utils
 com.appa.api.database.redis
 com.appa.api.database.redis.event
 com.appa.api.entity
+com.appa.api.entity.bases
+com.appa.api.entity.types
 com.appa.api.event
 com.appa.api.hologram
 com.appa.api.item
