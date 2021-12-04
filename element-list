@@ -10,6 +10,7 @@ com.appa.api.database.mongo.pipeline
 com.appa.api.database.mongo.utils
 com.appa.api.database.redis
 com.appa.api.database.redis.event
+com.appa.api.date
 com.appa.api.entity
 com.appa.api.entity.bases
 com.appa.api.entity.types
@@ -17,6 +18,8 @@ com.appa.api.event
 com.appa.api.hologram
 com.appa.api.item
 com.appa.api.level
+com.appa.api.link
+com.appa.api.link.objects
 com.appa.api.logger
 com.appa.api.message
 com.appa.api.message.bossbar
@@ -33,7 +36,9 @@ com.appa.api.scheduler
 com.appa.api.scoreboard
 com.appa.api.sign
 com.appa.api.spam
+com.appa.api.text
 com.appa.api.ui
+com.appa.api.ui.modules
 com.appa.api.utils
 com.appa.core
 com.appa.core.ability
@@ -56,6 +61,7 @@ com.appa.core.bender.listener
 com.appa.core.bender.section
 com.appa.core.bender.section.enums
 com.appa.core.bender.section.events
+com.appa.core.bender.settings
 com.appa.core.bender.stream
 com.appa.core.bender.ui
 com.appa.core.bender.upgrades
@@ -66,9 +72,13 @@ com.appa.core.entity.events
 com.appa.core.nation
 com.appa.core.test
 com.appa.core.tribe
+com.appa.core.tribe.ally
+com.appa.core.tribe.invite
 com.appa.core.tribe.member
+com.appa.core.tribe.message
 com.appa.core.tribe.permission
 com.appa.core.tribe.point
+com.appa.core.tribe.protection
 com.appa.core.tribe.quest
 com.appa.core.tribe.quest.base
 com.appa.core.tribe.quest.enums
@@ -76,9 +86,14 @@ com.appa.core.tribe.quest.individual
 com.appa.core.tribe.quest.tier
 com.appa.core.tribe.region
 com.appa.core.tribe.region.entity
+com.appa.core.tribe.region.utils
 com.appa.core.tribe.role
-com.appa.core.tribe.shield
+com.appa.core.tribe.shop
 com.appa.core.tribe.stream
 com.appa.core.tribe.ui
+com.appa.core.tribe.ui.pages
+com.appa.core.tribe.ui.pages.tribe
+com.appa.core.tribe.ui.pages.tribe.ally
+com.appa.core.tribe.ui.pages.tribe.member
+com.appa.core.tribe.warp
 com.appa.core.upgrades
-com.appa.core.utils
